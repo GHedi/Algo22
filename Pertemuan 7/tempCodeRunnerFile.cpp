@@ -1,0 +1,2 @@
+
+    cout<<"Masukkan nama anda : ";
