@@ -6,7 +6,6 @@ Repositori ini berfungsi sebagai dokumentasi dan rekam jejak akademis (*academic
 <p align="center">
   <img src="preview.png" alt="Algorithm Console Output Preview" width="100%">
 </p>
-*(Catatan UAS: Anda dapat mengunggah satu tangkapan layar terminal/console hasil run salah satu program C++ lama Anda ke dalam repositori ini dengan nama file `screenshot_algo.png` agar muncul secara otomatis).*
 
 ### 📌 Tujuan Repositori
 Repositori ini disusun secara rapi sebagai pembuktian transparansi proses belajar (*learning journey*) dalam memahami fondasi dasar pemrograman, logika komputasi, dan pemecahan masalah (*problem-solving*) sejak awal masa perkuliahan.
